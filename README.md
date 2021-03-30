@@ -6,6 +6,8 @@ Criar planilha de todas as instancias em uma conta da AWS
 
 - Python3
 - Modulo boto3 do python3(pip3 install boto3)
+- Modulo pyzabbix do python3(pip3 install pyzabbix)
+
 ## Modo de usar
 
 - Depois de dar um clone no repositório, acesse o diretório **list_instances** onde o script **report-instances.py** está armazenado 
